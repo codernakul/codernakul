@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Nakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=codernakul&count_private=true&theme=github_dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codernakul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codernakul&layout=compact&theme=github_dark)
