@@ -1,34 +1,19 @@
-<!---
-- 👋 Hi, I’m @codernakul
-- 👀 I’m interested in Computer
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on C.
---->
+## Nakul Singh - codernakul
 
-<!---
-codernakul/codernakul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Java** is my first language and I love it currently I am learning **C** as a part of my college curriculum and have been enjoying it. I learnt the basics of **Python** and **OPENCV** last month and have been working hard on refining my skills got a few ideas for some fun projects in my mind can\'t wait to implement them.
 
-<h1 align="center">Hi 👋, I'm Nakul Singh</h1>
-<h3 align="center">I like Java and C!?!?!</h3>
+I also like to checkout various Competitive Programming competitions have done a few on CodeChef.
+### Connect with me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codernakul&label=Profile%20views&color=0e75b6&style=flat" alt="codernakul" /> </p>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/er-nakul-singh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-- 🌱 I’m currently learning **C and C++**
+### Languages and Tools:
 
-- 💬 Ask me about **Java (Pure)**
+<p align="left"> 
+<a href="https://en.wikipedia.org/wiki/James_Gosling" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-- ⚡ Fun fact **I am object oriented**
+### Github Stats:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/codernakul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codernakul" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/James_Gosling" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-![Nakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=codernakul&count_private=true&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codernakul&layout=compact&theme=dark)
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=codernakul&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="codernakul" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernakul&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="codernakul" align = "center"/></p>
