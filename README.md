@@ -6,12 +6,12 @@ I also like to checkout various Competitive Programming competitions have done a
 ### Connect with me:
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/er-nakul-singh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/er-nakul-singh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="java" width="35" height="35"/> </a> </p>
 
 ### Languages and Tools:
 
 <p align="left"> 
-<a href="https://en.wikipedia.org/wiki/James_Gosling" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<a href="https://en.wikipedia.org/wiki/James_Gosling" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="linux" width="35" height="35"/> </a> </p>
 
 ### Github Stats:
 
