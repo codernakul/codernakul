@@ -4,7 +4,7 @@
 
 I also like to checkout various Competitive Programming competitions have done a few on CodeChef.
 
-* Member at [IvLabs](https://github.com/IvLabs)
+* Summer Intern at [IvLabs](https://github.com/IvLabs)
 
 ### Connect with me:
 
