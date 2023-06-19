@@ -5,6 +5,7 @@
 I also like to checkout various Competitive Programming competitions have done a few on CodeChef.
 
 * Member at [IvLabs](https://github.com/IvLabs)
+* Member at [S.H.E.L.L.](https://github.com/S-H-E-L-L/)
 
 ### Connect with me:
 
@@ -19,3 +20,7 @@ I also like to checkout various Competitive Programming competitions have done a
 ### Github Stats:
 
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=codernakul&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="codernakul" align = "center"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernakul&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="codernakul" align = "center"/></p>
+
+### Cybersecurity
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/codernakul.png" alt="TryHackMe">
