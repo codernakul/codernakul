@@ -22,5 +22,6 @@ I also like to checkout various Competitive Programming competitions have done a
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=codernakul&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="codernakul" align = "center"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernakul&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="codernakul" align = "center"/></p>
 
 ### Cybersecurity
+<img src="https://tryhackme-badges.s3.amazonaws.com/codernakul.png" alt="TryHackMe">
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/codernakul.png" alt="TryHackMe">
+[![An image of @codernakul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codernakul)](https://holopin.io/@codernakul)
